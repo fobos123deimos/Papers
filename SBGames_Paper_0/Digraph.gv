@@ -1,0 +1,10 @@
+digraph {
+	node [fontsize=9 height=0.2 shape=circle width=0.2]
+	Y_C [fillcolor=lightgray shape=box style=filled]
+	Y_B [fillcolor=lightgray shape=box style=filled]
+	Y_P [fillcolor=lightgray shape=box style=filled]
+	Prob [fillcolor=lightblue style=filled]
+	Y_C -> Prob [color=green penwidth=0.4327640725922156 style=solid]
+	Y_B -> Prob [color=red penwidth=0.4021373132571806 style=solid]
+	Y_P -> Prob [color=green penwidth=0.22571032650311218 style=solid]
+}
