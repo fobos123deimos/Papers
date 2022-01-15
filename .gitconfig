@@ -1,2 +1,5 @@
 [core]
 	excludesFile = /home/jovyan/.gitignore
+[user]
+	email = matheusgomescord@gmail.com
+	name = matheus123deimos
