@@ -1,0 +1,11 @@
+.bash_logout
+.bash_logout .bashrc .gitconfig
+.gitignore .ipynb_checkpoints
+.bashrc .profile .jupyter-server-log.txt
+.bashrc
+.profile
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.local/
+.jupyter-server-log.txt
